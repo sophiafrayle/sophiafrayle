@@ -19,7 +19,7 @@
 - Customer segmentation, movie recommender systems, and building LLM applications 
 
 
-## My Projects
+## 👩‍💻 My Projects
 
 Here are some of the projects I’ve been working on:
 
