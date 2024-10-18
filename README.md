@@ -1,7 +1,7 @@
 
 
 
-![Header](./[[Your header image](https://github.com/sophiafrayle/sophiafrayle/blob/main/Sophia%20Frayle%20(1280%20x%20640%20px).png)])
+![Header](./Sophia%20Frayle%20(1280%20x%20640%20px).png)
 
 
 
