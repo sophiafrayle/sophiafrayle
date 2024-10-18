@@ -53,8 +53,7 @@ Check out more of my work [here](https://github.com/your-profile-link).
 
 ## Top Skills
 
-- **Artificial Intelligence & Machine Learning**: I have experience building and deploying models using Python, TensorFlow, Vertex AI, and Langchain.
-- **Data Analysis & Engineering**: Expertise in working with big data tools like SQL, PySpark, BigQuery, and data visualization using Looker, Power BI & Tableau.
+- **Artificial Intelligence & Machine Learning**: I have experience building and deploying models.
 - **Prototyping & Innovation**: Skilled in quickly building prototypes and experimenting with new technologies to drive innovation in AI.
 - **Languages**: Fluent in English and Spanish, with working proficiency in Dutch.
 
@@ -97,6 +96,9 @@ Check out more of my work [here](https://github.com/your-profile-link).
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 
 ### Cloud & Infrastructure:
